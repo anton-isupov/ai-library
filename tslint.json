@@ -78,7 +78,7 @@
     ],
     "quotemark": [
       true,
-      "single"
+      "double"
     ],
     "semicolon": {
       "options": [
@@ -95,8 +95,7 @@
       }
     },
     "typedef": [
-      true,
-      "call-signature"
+      false
     ],
     "typedef-whitespace": {
       "options": [
